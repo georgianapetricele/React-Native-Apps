@@ -2,6 +2,7 @@
 # Recipe App
 "MyRecipes" is a mobile app that makes it easy for users to manage their recipes. With a simple and user-friendly interface, users can access all their saved recipes and view detailed information for each one. The app also allows users to add new recipes, update existing ones, and delete recipes they no longer need. 
 
+
 # CRUD operations and Persistence Details
 The application:
 - Supports CRUD operations on business objects. The main screen lists these objects.
