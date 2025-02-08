@@ -17,4 +17,6 @@ A mobile application designed to help students track their courses and learning 
 - Analytics Section (Separate Activity/Screen) – Available Online Only
   - Top 5 Most Popular Courses – Using GET /allCourses, generate a list of the top 5 most popular courses, sorted by status (ascending) and number of enrolled students (descending).
   
+![Group 5 (1)](https://github.com/user-attachments/assets/b340f58a-6ca1-4b16-8647-90822b3e1e59)
+![Group 16](https://github.com/user-attachments/assets/73783009-0ed7-4494-a047-2bcf562d23ae)
 
