@@ -1,16 +1,6 @@
 # Course Management App
 A mobile application designed to help students track their courses and learning progress. Instructors can create and assign courses, while students can enroll and monitor their progress.
 
-#System Details
-The system maintains the following course details:
-Id – The internal course ID, an integer value greater than zero.
-Name – A string representing the course name.
-Instructor – A string representing the instructor’s name.
-Description – A string containing course details (e.g., topics covered, objectives, prerequisites).
-Status – A string representing the course status, e.g., "upcoming", "ongoing", or "completed".
-Students – An integer representing the number of students enrolled.
-Duration – An integer representing the estimated duration in hours.
-
 # Application Features
 - WebSocket Integration – When a new course is added, the server sends a WebSocket notification to all connected clients with the course details. The app displays the name, instructor, and description using a toast, snackbar, or dialog.
 - Progress Indicator – A progress indicator appears on all server or database operations.
