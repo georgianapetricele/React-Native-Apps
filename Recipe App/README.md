@@ -6,4 +6,6 @@ The application:
     - On update/delete while offline: persists the operation offline (survive restarts). Once the server is back online applies the changes to the server and on device.
     - On read while offline: displays local data with a note that the server is down.
     - On create while offline: saves input locally and syncs with the server when back online.
-![Uploading Group 4.png…]()
+  
+
+![Group 4](https://github.com/user-attachments/assets/7b3804de-78a5-4c64-bcd2-61d5d8f96a03)
